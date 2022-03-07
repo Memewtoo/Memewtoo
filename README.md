@@ -9,7 +9,6 @@
 
 
 - ⚡ Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
-- 👯 I’m looking forward to collaborate on Game Development / Mobile App Development
 - 📫 Detailed-oriented, responsible, and committed enginee. Self and quick learner, self-motivated, and social.
   
 <!--
