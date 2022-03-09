@@ -8,8 +8,8 @@
 </div>
 
 
-- ⚡ Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
-- 📫 Detailed-oriented, responsible, and committed enginee. Self and quick learner, self-motivated, and social.
+- ⚡ Good in Algorithms, Data Structures, Database Systems, and Problem Solving skills.
+- 📫 Detailed-oriented, responsible, and committed programmer. Self and quick learner, self-motivated, and social.
   
 <!--
 **Memewtoo/Memewtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
