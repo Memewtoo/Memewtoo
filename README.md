@@ -2,7 +2,7 @@
 
 <div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=tahoma&color=%2336BCF7&duration=4000&center=true&vCenter=true&width=600&lines=I'm+Yuwi+%E2%80%94+Memewtoo;Computer+Science+Graduate"
+        <img src="https://readme-typing-svg.herokuapp.com?font=tahoma&color=%2336BCF7&duration=5000&center=true&vCenter=true&width=600&lines=I'm+Yuwi+%E2%80%94+Memewtoo;Web3+Enthusiast+||+Solana+Blockchain+Engineer"
              alt="Headline" />
     </div>
 </div>
