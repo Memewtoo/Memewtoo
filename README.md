@@ -24,6 +24,9 @@
 
 - [EqSeedr](https://github.com/ExSolsior/EqSeedr) - an interactive token launchpad platform that allows for price discovery of an asset through the process of competition. Maximizing the funding raised for the project and providing an opportunity for users to earn massive gains on their capital investment. Users can make non-competing bids in the attempt to aquire as many tokens below the market bid average, or users can make competing bids in the attempt win the tokens pool with the potential of earing 100x gains on their investment.
 
+- [StayKing](https://github.com/Memewtoo/stayking) - a simplified staking decentralized application (dApp) designed for staking KING tokens. This project aims to replicate the core logic of staking, providing aspiring builders with a high-level understanding of how staking logic works on Solana ecosystem.  
+ _Under further development_
+
   
 <!--
 **Memewtoo/Memewtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
