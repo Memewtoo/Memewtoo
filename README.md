@@ -7,9 +7,16 @@
     </div>
 </div>
 
+### __Recent dev activities:__
 
-- ⚡ Good in Algorithms, Data Structures, Database Systems, and Problem Solving skills.
-- 📫 Detailed-oriented, responsible, and committed programmer. Self and quick learner, self-motivated, and social.
+- 4 time graduate of differeng Solana bootcamps program ranging from beginner to advanced, these are from:  
+    [Turbin3](https://turbin3.com/),
+    [Ackee](https://ackee.xyz/),
+    [Metacrafters](https://www.metacrafters.io/)  (All Solana courses), and
+    [Nas Academy](https://nasacademy.com/).
+  - Currently finishing 2 more advance Solana programs:  
+    Solana Builders Artisan on [Turbin3](https://turbin3.com/) and Solana Auditors Bootcamp on [Ackee](https://ackee.xyz/).
+
   
 <!--
 **Memewtoo/Memewtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
